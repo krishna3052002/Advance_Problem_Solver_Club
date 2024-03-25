@@ -1,0 +1,1 @@
+{"name":"Local: B_Remove_It","url":"e:\\AdvanceProblemSolverClub\\Week 2\\Day 1\\B_Remove_It.cpp","tests":[{"id":1711387439277,"input":"5 5\n3 5 6 5 4","output":"3 6 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\AdvanceProblemSolverClub\\Week 2\\Day 1\\B_Remove_It.cpp","group":"local","local":true}
