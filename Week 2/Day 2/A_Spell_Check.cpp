@@ -25,7 +25,7 @@ int main()
                 bool flag=false;
                 for(int i=0;i<n;i++)
                 {
-                    cout<<s[i]<<endl;
+                    
                     if(c==s[i])
                     {
                       flag=true;
