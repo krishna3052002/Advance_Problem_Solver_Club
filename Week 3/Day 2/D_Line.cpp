@@ -52,7 +52,7 @@ int main()
             }
         }
         // cout<<minimum_Chng<<" "<<maximum<<endl;
-
+        
         vector<ll> ans(n + 1);
         for (ll i = minimum_Chng; i <= n; i++)
         {
